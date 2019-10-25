@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P2p1FJJJ</string>
+    <string name="rfememino">Femenino</string>
+    <string name="rmasculino">Masculino</string>
+    <string name="btnbutton">Mensaje</string>
+    <string name="txtnum1">Número 1</string>
+    <string name="txtnum2">Número 2</string>
+    <string name="msuma">Suma</string>
+    <string name="mResta">Resta</string>
+    <string name="mmultiplicacion">Multiplicación</string>
+    <string name="mdivision">División</string>
+    <string name="mresultado">Resultado</string>
+
+</resources>
